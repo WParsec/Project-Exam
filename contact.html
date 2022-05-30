@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Future Dawn blog | About us"/>
+    <title>Future Dawn | Contact </title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <div class="navbar-flex-wrap">
+            <a href="/index.html"><img class="logo-img" src="images/logo.svg" alt="Future Dawn Logo"></a>
+            <nav>
+                <button aria-controls="navigation" class="toggle-menu-button">Menu</button>
+                <ul id="navigation" class="navigation">
+                    <li class="close-button-li">
+                        <button class="close-button toggle-menu-button">Close</button>
+                    </li>
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="/posts.html">Explore posts</a>
+                    </li>
+                    <li>
+                        <a href="/about.html">About</a>
+                    </li>
+                    <li>
+                        <a class="current" href="/contact.html">Contact</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <section class="header-section-posts-page">
+            <div class="image-div-1"></div>
+            <div class="margin-wrap">
+                <div class="h1-wrap">
+                    <h1>CONTACT</h1>
+                </div>
+            </div>
+        </section>
+        <section class="form-section">
+            <div class="margin-wrap">
+                <div class="form-container">
+                    <form action="submit" id="contactForm" class="contactform">
+                        <label for="name">
+                            <span class="please-enter">Please enter your name: (minimum 5 characters)</span>
+                            <div class="input-flex">
+                                <input type="text" id="name" name="name" placeholder="Elon Tusk" minlength="5" required>
+                                <span class="error-span error-span-1" aria-live="polite"></span>
+                            </div>
+                        </label>
+                        <label for="mail">
+                            <span class="please-enter">Please enter an email address:</span>
+                            <div class="input-flex">
+                                <input type="email" id="mail" name="mail" placeholder="elontusk@hotmail.com" required minlength="8">
+                                <span class="error-span error-span-2" aria-live="polite"></span>
+                            </div>
+                        </label>
+                        <label for="subject">
+                            <span class="please-enter">Please enter a subject: (minimum 15 characters)</span>
+                            <div class="input-flex">
+                                <input type="text" id="subject" name="subject" placeholder="Donations in dogecoin" minlength="15" required>
+                                <span class="error-span error-span-3" aria-live="polite"></span>
+                            </div>
+                        </label>
+                        <label for="textarea">
+                            <span class="please-enter">Write your inquiry:</span>
+                            <div class="input-flex">
+                                <textarea name="textarea" id="textarea" rows="10" minlength="25" required></textarea>
+                                <span class="error-span error-span-4" aria-live="polite"></span>
+                            </div>
+                        </label>
+                        <div class="form-bottom-flex">
+                            <button type="submit" disabled class="cta-button">SUBMIT</button>
+                            <span class="form-complete-span"></span>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <a class="footer-links" href="/about.html">ABOUT</a>
+        <a class="footer-links" href="/posts.html">POSTS</a>
+        <a class="footer-links" href="/contact.html">CONTACT</a>
+        <div class="sm-icon-flex">
+            <img class="icon" src="/images/icons8-twitter.svg" alt="Twitter logo">
+            <img class="icon" src="/images/icons8-facebook.svg" alt="Facebook logo">
+            <img class="icon" src="/images/icons8-instagram.svg" alt="Instagram logo">
+        </div>
+        <p class="copyright">williamertvaag</p>
+    </footer>
+    <script src="/js/contact.js"></script>
+</body>
+</html>

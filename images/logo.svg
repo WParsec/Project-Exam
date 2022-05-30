@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="213" height="24" viewBox="0 0 213 24">
+  <g id="Group_9" data-name="Group 9" transform="translate(-278 -28)">
+    <g id="Group_5" data-name="Group 5" transform="translate(-104 -164.17)">
+      <g id="Group_3" data-name="Group 3" transform="translate(479.131 195.81)">
+        <path id="Path_1" data-name="Path 1" d="M12.109,0A12.072,12.072,0,0,1,24.217,12.344c0,1.894-.175.765-.943.939-8.427.1-6.24.05-11.165,0-3.728-.038-5.019-.14-7.7,0-.692.235-4.331.769-4.331-.939A12.006,12.006,0,0,1,12.109,0Z" transform="translate(5.767)" fill="#f5dd95"/>
+      </g>
+      <text id="FUTURE" transform="translate(382 211.17)" fill="#f0f0f0" font-size="20" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800" letter-spacing="0.04em"><tspan x="0" y="0">FUTURE</tspan></text>
+      <text id="DAWN" transform="translate(521 211.17)" fill="#f0f0f0" font-size="20" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800" letter-spacing="0.04em"><tspan x="0" y="0">DAWN</tspan></text>
+    </g>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="32" height="3" transform="translate(377 44)" fill="#fff"/>
+  </g>
+</svg>
