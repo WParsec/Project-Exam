@@ -16,7 +16,7 @@ The task of the exam project was to design and develop a blog of a chosen topic,
 
 ## Getting Started
 
-Link to site: [https://serene-wing-27b334.netlify.app/]
+Link to site: [[https://serene-wing-27b334.netlify.app/]](https://futuredawn.netlify.app/)
 
 ### Installing
 
