@@ -400,11 +400,10 @@ footer {
     align-items: center;
     gap: 80px;
     padding-bottom: 80px;
-    display: none;
 }
 
 .footer-links {
-    font-size: 68px;
+    font-size: 40px;
     font-weight: 900;
 }
 
