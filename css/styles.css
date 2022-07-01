@@ -403,7 +403,7 @@ footer {
 }
 
 .footer-links {
-    font-size: 40px;
+    font-size: 56px;
     font-weight: 900;
 }
 
@@ -948,7 +948,7 @@ footer {
     }
 
     .footer-links {
-        font-size: 56px;
+        font-size: 40px;
     }
 
     .input-flex {
