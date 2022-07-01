@@ -400,6 +400,7 @@ footer {
     align-items: center;
     gap: 80px;
     padding-bottom: 80px;
+    display: none;
 }
 
 .footer-links {
