@@ -66,7 +66,7 @@ a:hover {
 
 p,
 .form-complete-span {
-    font-family: 'Cormorant+Garamond', serif;
+    font-family: 'Cormorant Garamond', serif;
     color: var(--white-links);
     font-size: 20px;
 }
@@ -403,7 +403,7 @@ footer {
 }
 
 .footer-links {
-    font-size: 64px;
+    font-size: 40px;
     font-weight: 900;
 }
 
@@ -724,13 +724,13 @@ footer {
     height: 32px;
     border: none;
     padding: 4px;
-    font-family: 'Cormorant+Garamond';
+    font-family: 'Cormorant Garamond';
     font-size: 18px;
 }
 
 .please-enter {
     color: white;
-    font-family: 'Cormorant+Garamond';
+    font-family: 'Cormorant Garamond';
     font-weight: 400;
     font-size: 16px;
 }
@@ -738,7 +738,7 @@ footer {
 #textarea {
     width: 100%;
     padding: 10px;
-    font-family: 'Cormorant+Garamond';
+    font-family: 'Cormorant Garamond';
     font-size: 18px;
 }
 
