@@ -27,18 +27,13 @@ Live site: [futuredawn.netlify.app](https://futuredawn.netlify.app/)
 - Clone the repo:
 
 ```
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
-```
-- Install Dependencies
-
-```
- npm install
+git clone https://github.com/WParsec/Project-Exam.git
 ```
 
 - Start the project with live-server
 
 ```
- npm run start
+ Run live-server
 ```
 
 
