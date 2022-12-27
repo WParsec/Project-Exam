@@ -6,7 +6,11 @@ My Exam project for first year of Noroff 2 year study of Frontend development.
 
 ## Description
 
-The task of the exam project was to design and develop a blog of a chosen topic, using wordpress as API. It was to contain a homepage, a slider, blog specific page and contact page.
+The assignment task was to design and develop a blog of a chosen topic, using Wordpress REST API. It had to contain the following:
+- homepage
+- a slider
+- blog specific page 
+- contact page
 
 ## Built With
 
@@ -16,17 +20,25 @@ The task of the exam project was to design and develop a blog of a chosen topic,
 
 ## Getting Started
 
-Link to site: [[https://serene-wing-27b334.netlify.app/]](https://futuredawn.netlify.app/)
+Live site: [futuredawn.netlify.app](https://futuredawn.netlify.app/)
 
 ### Installing
 
-1. Clone the repo:
+- Clone the repo:
 
-```bash
+```
 git clone git@github.com:NoroffFEU/portfolio-1-example.git
 ```
+- Install Dependencies
 
-## Contributing
+```
+ npm install
+```
+
+- Start the project with live-server
+
+```
+ npm run start
+```
 
 
-## Contact
